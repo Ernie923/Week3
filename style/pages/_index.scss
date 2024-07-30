@@ -54,7 +54,7 @@ header{
 }
 
 .banner{
-    background-image: url(../../image/home-header.png);
+    background-image: url(../image/home-header.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -88,7 +88,7 @@ header{
 }
 @media (max-width: 992px){
     .banner{
-        background-image: url(../../image/home-header-sm.png);
+        background-image: url(../image/home-header-sm.png);
         padding: 0 36px;
         height: 787px;
     }
@@ -209,7 +209,7 @@ header{
 
 .product-2{
     padding: 80px 0;
-    background-image: url(../../image/index-bg.png);
+    background-image: url(../image/index-bg.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -236,7 +236,7 @@ header{
 }
 @media (max-width: 992px){
     .product-2{
-        background-image: url(../../image/index-bg-sm.png);
+        background-image: url(../image/index-bg-sm.png);
         .container{
             .col-6{
                 width: 100%;
